@@ -1,0 +1,10 @@
+Tunbao-Omni
+
+The files under vendor/t2m_gpt are a dependency subset of T2M-GPT:
+https://github.com/Mael-zys/T2M-GPT
+Source revision: b1446f1239f0fce579f922b5b10dd1b1103669cc
+They retain the upstream Apache License 2.0 (vendor/t2m_gpt/LICENSE).
+
+The root MIT license applies to the Tunbao-Omni integration code, not as a
+replacement for the upstream license. Model weights, motion data, evaluator
+assets and CLIP weights are not included and retain their own terms.

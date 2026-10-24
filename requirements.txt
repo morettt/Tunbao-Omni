@@ -1,0 +1,10 @@
+torch==2.5.1
+numpy==1.23.5
+scipy==1.10.1
+spacy==3.7.5
+tensorboard==2.15.2
+matplotlib==3.7.5
+ftfy==6.3.1
+regex
+tqdm
+clip @ git+https://github.com/openai/CLIP.git
